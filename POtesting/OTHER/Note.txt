@@ -1,0 +1,12 @@
+𞌱 Outputs Structure:
+			
+		° Sheet 1:
+                            Item No. | SKU | QTY | Unit Cost | Total Value Excl. VAT
+              ------------------------------------------------------------------------------------------
+              --------------------------------------------------------------------------------------------
+              °Po info sheet:
+			    PO number | Ship-to | Order Date | RDD | Expiry
+
+
+𞌱 Remarks:
+	Manuel: Line 45, Line 69 missing from pdf (Manuel.pdf)
